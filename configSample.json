@@ -1,0 +1,7 @@
+{
+  "port": 3000,
+  "debug": true,
+  "HOST": "https://api.line.me",
+  "CH_SECRET": "xxxxxxxxxxxxxx",
+  "CH_ACCESS_TOKEN": "xxxxxxxx"
+}
